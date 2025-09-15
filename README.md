@@ -1,3 +1,3 @@
 # React counter
 
-![Image](https://github.com/user-attachments/assets/603069ab-d55c-43fa-9acd-d3a36e71a2be)
+![Image](https://github.com/user-attachments/assets/e1eb693c-7bed-4ced-9a4b-0f1c632d9fdd)
